@@ -1,0 +1,22 @@
+{
+    "name": "psr/hug",
+    "description": "Common interface for affectionate libraries",
+    "keywords": ["psr", "psr-8", "hug"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PHP-FIG",
+            "homepage": "http://www.php-fig.org/"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Psr\\Hug\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
